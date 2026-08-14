@@ -54,35 +54,35 @@ Machine Learning, Generative AI, Large Language Models, Retrieval-Augmented Gene
 
 ## Featured Projects
 
-### [SafeScane -- Medication Recall Assistant](YOUR_PROJECT_LINK)
+### [SafeScane -- Medication Recall Assistant](https://github.com/eevnat/SafeScan-AI)
 
 An assistant that helps users manage medication information and recall alerts through a simple and user-friendly interface.
 
-**Technologies:** Add your actual technologies here.
+**Technologies:** Python Libraries, RAG Implementation, OCR extraction, etc
 
-### [Business Intelligence GIS System](YOUR_PROJECT_LINK)
+### [Business Intelligence GIS System] [in development]
 
 A GIS-based business intelligence system that provides location-based insights, analytics, and dashboards.
 
-**Technologies:** Add your actual technologies here.
+**Technologies:** React js Map Libre library, Open Street apis.
 
-### [Wander World](YOUR_PROJECT_LINK)
+### [Wander World](https://github.com/eevnat/wander-world)
 
 A travel web application for destination exploration and trip planning.
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB
+**Technologies:** React.js, Node.js, Express.js, MongoDB, APIs: Flag CDN, Country Name, Facts
 
 ### [Card Vault](YOUR_PROJECT_LINK)
 
 An application for organizing and managing digital card information.
 
-**Technologies:** Add your actual technologies here.
+**Technologies:** MERN Stack.
 
-### [School Management Dashboard](YOUR_PROJECT_LINK)
+### [School Management Dashboard](https://github.com/eevnat/school-management-system)
 
 A dashboard for managing student records and academic activities.
 
-**Technologies:** Add your actual technologies here.
+**Technologies:** JAVA, Servlets, MCP architecture, Tomcat server
 
 ## Currently Learning
 
@@ -95,8 +95,8 @@ A dashboard for managing student records and academic activities.
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Email: [your.email@gmail.com](mailto:your.email@gmail.com)
+- LinkedIn: [linkedin.com/in/tanvee-desai](https://linkedin.com/in/tanvee-desai)
+- Email: [tanveedesai1706@gmail.com](mailto:tanveedesai1706@gmail.com)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 Thanks for visiting my profile!

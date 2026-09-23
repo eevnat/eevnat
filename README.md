@@ -1,4 +1,4 @@
-# Hi, I'm Tanvee Desai 👋
+# Hi, I'm Tanvee Desai 
 
 ### MCA Student | AI/ML Enthusiast | Full-Stack Developer
 
